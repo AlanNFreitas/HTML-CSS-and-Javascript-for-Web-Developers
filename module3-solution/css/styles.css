@@ -355,7 +355,8 @@ h3.menu-item-title {
   
   .menu-item-tile {
   width: 80%;
-  margin: 0 auto;
+  margin-left: 10%;
+  margin-right: 10%;
   
 }
 }
